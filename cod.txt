@@ -1,0 +1,9 @@
+#container {
+    width: 360px;
+    border: 1px solid red;
+    margin: auto;
+    padding-top: 56px;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+}
